@@ -1,0 +1,1 @@
+Ciao, sono sempre io Francesco Battaglia e questo è un nuovo file di testo che ho creato dopo aver clonato il repository da remoto a locale. Grazie a git ho imparato tante nuove cose e tanti nuovi comandi, come git clone, git init, git commit, git add, git push, git pull.
